@@ -1,6 +1,6 @@
 const express = require('express');
 const hbs = require('hbs')
-const weather = require('./weather')
+// const weather = require('./weather')
 const fs = require('fs')
 
 const port = process.env.PORT || 8080;
